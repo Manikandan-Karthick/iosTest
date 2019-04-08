@@ -30,10 +30,10 @@ pods utilization : Alamofire for networking,
 # Persistance storage : Used Userdefaults to store offline data
 
 # Completed functionalities :
- Displaying three type of Moivies list - completed
- Movies list received from API - completed
- Search from movies list - completed
- Offline functionality - completed
+ Displaying three type of Moivies list - completed,
+ Movies list received from API - completed,
+ Search from movies list - completed,
+ Offline functionality - completed.
  
  
  
